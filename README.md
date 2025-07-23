@@ -30,7 +30,7 @@
 - 🌐 [Portfolio](https://yourportfolio.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/abdallah-awini-11784735b/)
 - 🐦 [Twitter](https://x.com/awini_abdallah) 
-- 📧 Email:okashaabdalla44@gmail.com
+- 📧 okashaabdalla44@gmail.com
 
 ---
 
