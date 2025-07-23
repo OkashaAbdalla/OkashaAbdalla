@@ -42,12 +42,5 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![Okasha's GitHub Stats](https://github-readme-stats.vercel.app/api?username=OkashaAbdalla&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=OkashaAbdalla&layout=compact&theme=radical)
-
----
-
 ### ⚡ Fun Fact
 > I build, break, and rebuild apps until they run like magic. 🚀
